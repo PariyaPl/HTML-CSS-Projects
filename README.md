@@ -5,14 +5,14 @@ This course projects are all done using only HTML and CSS </br></br>
 - [Click to go to the repository](https://github.com/PariyaPl/survey-form)
 - [The result page](https://pariyapl.github.io/survey-form/)</br>
 #### Project 2) Tribute Page :
-- [click to go to the repository](https://github.com/PariyaPl/The-Person)
-- [Output page](https://pariyapl.github.io/The-Person/)</br>
+- [Click to go to the repository](https://github.com/PariyaPl/The-Person)
+- [The result page](https://pariyapl.github.io/The-Person/)</br>
 #### Project 3) Technical Documentation Page :
-- [click to go to the repository](https://github.com/PariyaPl/Courses-Overview)
-- [Output page](https://pariyapl.github.io/Courses-Overview/)</br>
+- [Click to go to the repository](https://github.com/PariyaPl/Courses-Overview)
+- [The result page](https://pariyapl.github.io/Courses-Overview/)</br>
 #### Project 4) Product Landing Page :
-- [click to go to the repository](https://github.com/PariyaPl/Project-Steps)
-- [Output page](https://pariyapl.github.io/Project-Steps/)</br>
+- [Click to go to the repository](https://github.com/PariyaPl/Project-Steps)
+- [The result page](https://pariyapl.github.io/Project-Steps/)</br>
 #### Project 5) Personal Portfolio Webpage :
-- [click to go to the repository](https://github.com/PariyaPl/Overview)
-- [Output page](https://pariyapl.github.io/Overview/)</br>
+- [Click to go to the repository](https://github.com/PariyaPl/Overview)
+- [The result page](https://pariyapl.github.io/Overview/)</br>
